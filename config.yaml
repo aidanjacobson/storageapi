@@ -1,0 +1,15 @@
+name: "Tabsplit storage"
+description: ""
+version: "1.0.0"
+slug: "tabsplit_storage"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+ports:
+  9999/tcp: 9999
+map:
+  - config:rw
