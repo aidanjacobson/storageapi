@@ -1,6 +1,6 @@
 name: "Tabsplit storage"
 description: ""
-version: "1.0.0"
+version: "1.0.1"
 slug: "tabsplit_storage"
 init: false
 arch:
